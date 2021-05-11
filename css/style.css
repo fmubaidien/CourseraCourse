@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+body {
+    box-sizing: border-box;
+    margin: 4px;
+}
+
+#pic {
+    background-image: url("../static/images/eastaman.png");
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: white;
+    color: red;
+}
